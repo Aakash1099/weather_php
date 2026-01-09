@@ -1,7 +1,7 @@
 # weather_php
 
 Weather Dashboard – Live API & Database Driven
-
+deployed:https://weather-app-aakash.infinityfreeapp.com/
 A single-page PHP web application that fetches live weather data from an external API, stores selected records in a database, and visualizes real-time temperature trends for cities stored in the database using Chart.js.
 
 This project was built as part of a technical assignment to demonstrate API integration, CRUD operations, data visualization, and clean architecture.
